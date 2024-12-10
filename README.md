@@ -18,12 +18,13 @@ To get started:
 The pretrained model was trained on Kaggle resources and offers excellent accuracy. For those interested, you can retrain or modify the model by following this [Kaggle Notebook](https://www.kaggle.com/code/nikitaglazunov/face-mask-classification-task-with-best-accuracy). It’s fast and easy to use!
 
 ## Usage
-1. Run the app with the following command:
+1. Create directory *models* and save your model in that folder using name *mask_model.h5*.
+2. Run the app with the following command:
    ```bash
    python app.py
-2. Open the link displayed in your Python console (e.g., http://127.0.0.1:5000/).
-3. Upload any photo to the app interface.
-4. View the classification result in seconds!
+3. Open the link displayed in your Python console (e.g., http://127.0.0.1:5000/).
+4. Upload any photo to the app interface.
+5. View the classification result in seconds!
 
 ## Contact
 For questions, support, or feedback, please refer to the contact information in my GitHub profile description.
