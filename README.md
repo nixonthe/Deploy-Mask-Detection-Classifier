@@ -1,4 +1,4 @@
-# Deployment-Mask-Detection-Classifier
+# Mask Detection Classifier with deployment feature
 
 This project allows users to classify images using a pretrained Convolutional Neural Network (CNN) directly in their browser. With just one line of code, you can deploy and test this mask detection app effortlessly.
 
